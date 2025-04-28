@@ -63,7 +63,7 @@ function Play() {
       setTotal(total + randomNumber)
     }
     else {
-      setTotal(total - randomNumber)
+      setTotal(total - 2)
     }
     setSelectNumber(null)
     setCounter(counter + 1)
