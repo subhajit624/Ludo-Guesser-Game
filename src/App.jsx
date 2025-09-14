@@ -4,7 +4,7 @@ import dice from './assets/dices.png'
 
 function App() {
   return (
-    <div className="flex flex-col md:flex-row items-center justify-center h-screen p-4">
+    <div className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 flex flex-col md:flex-row items-center justify-center h-screen p-4">
 
       {/* Dice Image */}
       <div className="mb-8 md:mb-0">
