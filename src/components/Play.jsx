@@ -64,7 +64,7 @@ function Play() {
   const rulechecker = () => setRule(!rule)
 
   return (
-    <div className='p-4'>
+    <div className='p-4 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 min-h-screen'>
 
       {/* Score Section */}
       <div className='flex flex-col md:flex-row justify-between items-center mt-3'>
